@@ -3,4 +3,4 @@
 
 your comment here
 
-<img src=Images/1.Stat_Table.PNG >
+![District_summary](Pymaceuticals/Images/1.Stat_Table.PNG)
